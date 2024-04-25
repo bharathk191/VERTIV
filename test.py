@@ -4,7 +4,7 @@ import keyboard
 import sys
 
 pyautogui.FAILSAFE = False
-#looping
+#looping while loop
 while True:
     time.sleep(5)
     for i in range(0, 100):
