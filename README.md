@@ -1,3 +1,2 @@
-#Practicing git
 
 #myfirstproject
